@@ -51,7 +51,9 @@ Se crea el buyer persona con la ayuda de la pagina [hubspot](https://www.hubspot
 
 Para el publico objetivo se define a los posibles clientes del servicio y las necesidades a resolver con ayuda de la pagina [Miro](https://miro.com)
 
-<p align="center"><img src="./Imagenes/Publico-Objetivo"/></p>
+<p align="center"><img src="./Imagenes/Publico-Objetivo.PNG"/></p>
 
-## **4. Primer Wireframe**
+## **4. Primer Wireframe y practica UI**
 
+Se muestra el primer borrador del Wireframe/UI para el proyecto Abogabot usando la herramienta de [Figma](www.figma.com) 
+<p align="center"><img src="./Imagenes/Wireframe.PNG"/></p>
